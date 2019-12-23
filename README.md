@@ -6,8 +6,11 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/xiyangdiy/Aria2
 ## 安装 AriaNg
 #### 进入已创建的网站根目录
 ```
-wget 
+wget https://raw.githubusercontent.com/xiyangdiy/Aria2/master/AriaNg-1.1.4.zip
 ```
 ```
 unzip AriaNg-1.1.4.zip
+```
+```
+rm -f AriaNg-1.1.4.zip
 ```
